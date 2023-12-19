@@ -35,7 +35,7 @@ in which their impact varies when combined with other audio
 regions. This paper demonstrates that DL can be leveraged to
 create a reliable, accurate, and efficient method for PD Detection
 and the model can be extended to provide interpretability to the
-inferences in a way that is scalable, and free from bias
+inferences in a way that is scalable, and free from bias.
 
 ### Cite as: 
 ```
